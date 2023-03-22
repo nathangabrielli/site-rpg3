@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    background-color: #f6f6f6;
+    text-align: center;
+}
+
+.texto {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+
+.link {
+    color: black;
+}
