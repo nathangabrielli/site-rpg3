@@ -4,7 +4,6 @@ function logar () {
     
     if(login ==  "admin" && senha == "1412") {
        location.href = "aba-pessoal.html";
-        return false;
        }
     else{
         alert('falha no login');
