@@ -14,6 +14,10 @@ body {
     
 }
 
+.nova-mensagem {
+    color: red;
+}
+
 .link {
     text-decoration: none;
     color: #f0f0f0;
